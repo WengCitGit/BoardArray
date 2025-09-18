@@ -13,10 +13,10 @@ class BoardArray : public Board {
             index = 0;
         }
 
-        void add(Entry* entry) {
+        void add(Entry* entry) 
+        {
             // TODO: IMPLEMENT THIS FUNCTION
             // ALGORITHM IS PROVIDED IN INSTRUCTIONS.TXT
-            return;
         }
 
         void print() {
